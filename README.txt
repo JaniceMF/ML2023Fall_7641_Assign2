@@ -6,33 +6,17 @@ Implement four local random search algorithms, which are Randomized hill climbin
 
 GENERAL INFORMATION
 
+1.Dataset: Mental Stress PPG - https://github.com/JaniceMF/ML2023Fall_7641_Assign2/tree/main/Data
+2.Code: https://github.com/JaniceMF/ML2023Fall_7641_Assign2/tree/main/Code
 
-
-ACCESS DATASET AND CODE
-
-1.CODE: 
-     1)housingPredict: https://github.com/JaniceMF/ML2023Fall_7641/blob/ASSIGN1/HousingPredict.ipynb
-     2)https://github.com/JaniceMF/ML2023Fall_7641/blob/ASSIGN1/CreditCard_2023.ipynb
-2.dataset: 
-     1)HousingPredict: https://github.com/JaniceMF/ML2023Fall_7641/blob/ASSIGN1/HousingPredict.csv
-     2)CreditCard_2023: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023#:~:text=calendar_view_week-,creditcard_2023,-.csv
-
-ENVIRONMENT AND LIBRARY
+REQUIREMENTS
 
 1.Python 3.10 
 2.Scikit-learn 
 3.Matplotlib
 4.Numpy 
 5.Jupiter notebook 
-6.Pandas 
-7.Scipy 
-8.seaborn 
-9.keras & TensorFlow
+6.Scipy 
+8.mlrose library
 
-ALGORITHMS
 
-Decision Tress Regressor 
-Neural networks 
-Boosting - AdaBoostRegressor 
-Support Vector Machines 
-K-nearest neighbors
