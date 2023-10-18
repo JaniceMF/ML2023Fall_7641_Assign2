@@ -2,7 +2,9 @@ This file, Assignment No.2 - Randomized Optimization, was generated on [10/18/20
 
 OBJECTS
 
-Implement four local random search algorithms, which are Randomized hill climbing (HC), simulated annealing(SA), genetic algorithm (GA) and MIMIC. Then, apply these algorithms to three discrete-value optimization problems. Finally,use HC, SA and GA on Neural Networks to find good weights for the NNs. 
+Implement four local random search algorithms, which are Randomized hill climbing (HC), simulated annealing(SA), 
+genetic algorithm (GA) and MIMIC. Then, apply these algorithms to three discrete-value optimization problems. 
+Finally,use HC, SA and GA on Neural Networks to find good weights for the NNs. 
 
 GENERAL INFORMATION
 
